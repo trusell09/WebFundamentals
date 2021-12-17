@@ -1,0 +1,50 @@
+.Title{
+    text-align: center;
+    font-family: fantasy;
+}
+
+
+.row1{
+    height:800px;
+    width: auto;
+    border: darkred;
+    border-style: groove;
+    display:inline-block;
+    display:flex;
+    overflow: auto;
+    justify-content: space-evenly;
+    background-color:darkcyan;
+    padding-top: 30px;
+    padding-bottom:30px;
+}
+
+.row2{
+    height:800px;
+    width:auto;
+    margin-top: 10px;
+    border:lightsalmon;
+    border-style: groove;
+    border-width: thick;
+    display:inline-block;
+    display:flex;
+    overflow: auto;
+    justify-content: space-evenly;
+    background-color:navy;
+    padding-bottom:30px;
+}
+
+.row3{
+    height:800px;
+    width:auto;
+    margin-top: 10px;
+    border:ridge;
+    border-style:ridge;
+    border-width: thick;
+    display:inline-block;
+    display:flex;
+    overflow: auto;
+    justify-content: space-evenly;
+    background-color:tomato;
+    padding-top: 30px;
+    padding-bottom:30px;
+}
