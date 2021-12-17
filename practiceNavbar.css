@@ -1,0 +1,41 @@
+.nav{
+    justify-content: space-between;
+    display: inline-block;
+    display: flex;
+    padding: auto;
+    margin: auto;
+    border: hotpink;
+    border-color: hotpink;
+    background-color: hotpink;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+}
+li {
+    display: inline;
+}
+.nav-links{
+    display: inline;
+    margin-top:25px;
+}
+.nav-title{
+    display:inline-block;
+}
+.home{
+    margin-right: 100px;
+    text-decoration: none;
+}
+.Myprofile{
+    margin-right: 70px;
+    font-style: bold;
+}
+.find{
+    margin-right: 50px;
+}
+.signOut{
+    margin-right:15px;
+}
+
