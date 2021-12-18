@@ -1,0 +1,27 @@
+.row{
+    height: 300px;
+    width: auto;
+    background-color:khaki;
+    margin: 20px;
+    display: flex;
+}
+.col{
+    flex: 1; 
+    padding: 20px;
+    margin: 20px;
+    background-color: indigo;
+
+}
+.col-2{
+    flex: 2; 
+    padding: 20px;
+    margin: 20px;
+    background-color: indigo;
+
+}
+.col-3{
+    flex: 3; 
+    padding: 20px;
+    margin: 20px;
+    background-color: indigo;
+}
