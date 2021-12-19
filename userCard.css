@@ -1,0 +1,58 @@
+.userCard{
+    background-color:khaki;
+    border: black;
+    border-color: black;
+    width: auto;
+    height: 600px;
+    margin: 80px;
+    display: flex;
+
+}
+.bar{
+    height: 100px;
+    width: 100%;
+    background-color:royalblue;
+    border: royalblue;
+}
+.pic{
+    height: auto;
+    width: auto;
+    border:white;
+    border-color: white;
+    border-style: solid;
+    border-radius: 100%;
+    background-color: white;
+    position:fixed;
+    top: 12%;
+    left: 15%;
+    
+}
+.pic > img{
+    height: 90px;
+    width: 90px;
+}
+h1{
+    color: tomato;
+    padding-top:180px;
+    margin-left: 35px; 
+}
+.location > img{
+    height: 35px;
+    width:35px;
+    margin-left: 35px;
+    padding-right: 20px;
+}
+p2{
+    margin-left: 35px;
+}
+p3{
+    margin-left: 35px;
+}
+.link > img{
+    height: 35px;
+    width: 35px;
+    margin-left: 35px;
+    margin-top: 20px;
+    padding-right: 20px;
+
+}
