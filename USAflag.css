@@ -1,0 +1,72 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#container{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 1200px;
+    padding: 0px auto;
+    margin: 0px auto;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.Flag{
+    width: 97%;
+    height: 68%;
+    border: black;
+    border-style: solid;
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+}
+.topHalf{
+    width:100%;
+    height:55%;
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    width: 45%;
+    height:100%;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.sixrow{
+    width: 100%;
+    height:11%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.fiverow{
+    width: 100%;
+    height:11%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.stripes{
+    width: 55%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+}
+.redstripe{
+    width:100%;
+    height: 65px;
+    background-color: red;
+}
+.whitestripe{
+    width:100%;
+    height: 65px;
+    background-color: white;
+}
+.bottomHalf{
+    width: 100%;
+    height:45%;
+    display: flex;
+    flex-direction: column;
+}
+
